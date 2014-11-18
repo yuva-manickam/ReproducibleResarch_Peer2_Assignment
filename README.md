@@ -1,6 +1,6 @@
 Link on <a href="http://rpubs.com/Yuva/ReproducibleResearch_Peer2_Assesment" target="_blank">RPubs</a>
 http://rpubs.com/Yuva/ReproducibleResearch_Peer2_Assesment  
-My [Coursera-Reproducible-Research](https://github.com/Xiaodan/Coursera-Reproducible-Research) Repo  
+My [Coursera-Reproducible-Research](https://github.com/yuva-manickam/ReproducibleResarch_Peer2_Assignment) Repo  
 
 ### Introduction
 
